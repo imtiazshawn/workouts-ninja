@@ -1,5 +1,5 @@
 {
-  "proxy": "http://localhost:4000",
+  "proxy": "https://workouts-ninja-backend.onrender.com/",
   "name": "Frontend",
   "version": "0.1.0",
   "private": true,
